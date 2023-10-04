@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     signInButton.addEventListener("click", function () {
         // Redirect to another page when the button is clicked
-        window.location.href = "signin-success.html";
+        window.location.href = "signin.html";
     });
 });
 

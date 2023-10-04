@@ -67,3 +67,25 @@ a {
     color: black;
 }
 
+
+.body1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.div-container {
+    text-align: center;
+}
+
+.size-fixing {
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    width: 150%;
+}
+    
