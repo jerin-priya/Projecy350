@@ -61,3 +61,9 @@ body {
 .styled-button:hover {
     background-color: #073d3f;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
